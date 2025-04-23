@@ -20,4 +20,4 @@ A lightweight shell + Python script to enrich **Self Check CSV exports** with al
 |----------------------------------|---------------------------------|
 | `selfcheck_fullpage_in_stem.csv` | Your original Self Check export |
 | `Final_Lesson_to_TEKS_Mapping.csv` | TEKS alignment lookup table     |
-| `add_teks_columns.sh`            | The script that does the magic  |
+| `add_TEKS.sh`            | The script that does the magic  |
